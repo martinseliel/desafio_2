@@ -12,3 +12,11 @@ Crie expressões para gerar atributos derivados</br>
 Defina ordenações dos dados com ORDER BY</br>
 Condições de filtros aos grupos – HAVING Statement</br>
 Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados</br>
+
+
+## Diretrizes
+
+Não há um mínimo de queries a serem realizadas;</br>
+Os tópicos supracitados devem estar presentes nas queries;</br>
+Elabore perguntas que podem ser respondidas pelas consultas;</br>
+As cláusulas podem estar presentes em mais de uma query;</br>
